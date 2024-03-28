@@ -1,6 +1,6 @@
 # simple_interest_calculator_app
 bank-new-repo-simple-interest-project
-# You are welcome to this project, your contribution is valuable but kindly follow below instruction.
+# You are welcome to this project, your contribution is valuable but kindly follow the instruction below.
 	
 **Please consider the below factors while contributing**	
 **Code Style:**
