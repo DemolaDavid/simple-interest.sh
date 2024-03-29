@@ -1,4 +1,4 @@
-# simple_interest_calculator_app
+# simple-interest.sh
 bank-new-repo-simple-interest-project
 # You are welcome to this project, your contribution is valuable but kindly follow the instruction below.
 	
